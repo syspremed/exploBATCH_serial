@@ -1,0 +1,12 @@
+Package: exploBATCH
+Type: Package
+Title: Explore batch effect (exploBATCH) is a package for discovering
+        and correcting for batch effect using an approach in
+        Nyamundanda et al (2016).
+Version: 1.0
+Date: 2016-10-27
+Author: Gift Nyamundanda gift.nyamundanda@icr.ac.uk 
+Maintainer: Gift Nyamundanda <gift.nyamundanda@icr.ac.uk>
+Description: It contains R scripts for performing formal statistical tests to diagnose batch effect in large scale genomic datasets, and correct for batch effect using an approach detailed in Nyamundanda et al (2016), which is based on the PPCCA model,in large scale genomic datasets. License: What license is it under?
+NeedsCompilation: no
+Packaged: 2016-12-01 14:22:23 UTC; gnyamundanda
