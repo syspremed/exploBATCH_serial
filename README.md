@@ -9,3 +9,5 @@
 require(devtools)
 
 install_github("syspremed/exploBATCH")
+
+library(exploBATCH)
