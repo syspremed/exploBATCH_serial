@@ -8,6 +8,6 @@
 
 require(devtools)
 
-install_github("syspremed/exploBATCH")
+install_github("syspremed/exploBATCH_serial")
 
-library(exploBATCH)
+library(exploBATCH_serial)
